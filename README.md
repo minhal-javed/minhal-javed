@@ -32,7 +32,7 @@
 
 <p align="center">
 <a href="https://github.com/minhal-javed">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dawood6&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dawood6&layout=compact&langs_count=8&theme=react"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=minhal-javed&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=minhal-javed&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
